@@ -17,6 +17,6 @@ When creating a new language, you must first create a folder titled with your la
 
 E.g. "main_endkey": "TRANSLATE HERE"
 
-When finsihed with your contributions, create a pull request and it will be taken into consideration.
+When finsihed with your contributions, CREATE A PULL REQUEST and it will be taken into consideration.
 
 Thank you for you help, we greatly appreciate it 😄
